@@ -12,6 +12,7 @@ Tkinter
 
 **Installation:**
 To clone this application to your local machine:
+
 git clone https://github.com/lakshmi0215/Python-ToDo-List-App.git
 
 
