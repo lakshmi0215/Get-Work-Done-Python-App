@@ -11,15 +11,16 @@ Python
 Tkinter
 
 **Installation:**
-To clone this application to your local machine:
+
+**To clone this application to your local machine:**
 
 git clone https://github.com/lakshmi0215/Python-ToDo-List-App.git
 
-Navigate to the project directory:
+**Navigate to the project directory:**
 
 cd Get-Work-Done-Python-App
 
-Run the application:
+**Run the application:**
 
 python get_work.py
 
