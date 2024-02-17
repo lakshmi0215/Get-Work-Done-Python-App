@@ -1,2 +1,10 @@
 # Get-Work-Done-Python-App
-A simple to-do-list App
+A simple to-do-list App built using Python and Tkinter. 
+
+**Feature Included:**
+1. Add Tasks
+2. Delete Tasks
+3. Edit Tasks
+   
+
+
